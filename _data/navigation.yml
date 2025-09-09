@@ -1,6 +1,6 @@
 main:
   - title: "Novinky"
-    url: /posts/
+    url: /novinky/
   - title: "Fotky"
     url: /fotky/
   - title: "Kontakty"
