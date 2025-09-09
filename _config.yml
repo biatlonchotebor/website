@@ -4,10 +4,7 @@ minimal_mistakes_skin: "air"
 plugins:
   - jekyll-include-cache
   - jekyll-feed
-collections:
-  gallery:
-    output: true
-    permalink: /fotky/:path/
+locale: cs
 defaults:
   # _posts
   - scope:
