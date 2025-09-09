@@ -30,9 +30,9 @@ defaults:
       author_profile: true
 
 author:
-  name   : ""
+  name   : "Zkus to taky"
   avatar : "/assets/images/biatlon-logo.png"
-  bio    : "Chceš si biatlon vyzkoušet? [Ozvi se](/kontakt/)."
+  bio    : "Chceš si biatlon vyzkoušet na vlastní kůži? Mrkni [v čem je jeho kouzlo](/o-biatlonu/) a [ozvi se nám](/kontakt/)."
   links:
     - label: "biatlon.chotebor@centrum.cz"
       icon: "fas fa-fw fa-envelope-square"
