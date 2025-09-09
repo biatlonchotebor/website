@@ -1,3 +1,4 @@
-# Biatlon Chotebor
+This is a main welcome page
 
-This is a main page
+![Alt text](/assets/images/gallery/tym/jablonec2025.jpg)
+
