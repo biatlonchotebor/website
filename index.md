@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Biatlon Chotebor"
+title: "Klub Biatlonu Chotěboř"
 author_profile: true
 ---
 
