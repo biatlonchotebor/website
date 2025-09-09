@@ -28,3 +28,23 @@ defaults:
       layout: single
       author_profile: true
 
+author:
+  name   : "Biatlon Chotebor"
+  avatar : "/assets/images/gallery/tym/jablonec2025.jpg"
+  bio    : "My awesome biography constrained to a sentence or two goes here."
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.biatlon.cz"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
+
+footer:
+  links:
+    - label: "Biatlon.cz"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.biatlon.cz"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
