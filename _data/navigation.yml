@@ -1,0 +1,8 @@
+main:
+  - title: "Novinky"
+    url: /posts/
+  - title: "Fotky"
+    url: /fotky/
+  - title: "Kontakty"
+    url: /kontakt/
+
