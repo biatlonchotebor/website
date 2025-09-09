@@ -1,6 +1,8 @@
 ---
 layout: home
 title: "Biatlon Chotebor"
+layout: single
+author_profile: true
 ---
 
 This is a main welcome page
