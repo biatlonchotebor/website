@@ -1,7 +1,6 @@
 ---
 layout: home
 title: "Biatlon Chotebor"
-layout: single
 author_profile: true
 ---
 
