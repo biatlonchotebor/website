@@ -1,10 +1,12 @@
 ---
 layout: single
-title: "Biatlon Chotebor: Kontakty"
+title: "Kontakty"
 permalink: /kontakt/
 ---
 
-Tady bude neco o kontaktech
+Předseda klubu: Radek Fialka
 
-![Alt text](/assets/images/gallery/tym/jablonec2025.jpg)
+Trenéři: Radek Fialka, Jiřina Obrová, Pavel Řádek, Honza Horák
+
+E-mail: [mailto:biatlon.chotebor@centrum.cz](mailto:biatlon.chotebor@centrum.cz)
 

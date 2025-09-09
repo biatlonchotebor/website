@@ -28,7 +28,7 @@ defaults:
 author:
   name   : ""
   avatar : "/assets/images/biatlon-logo.png"
-  bio    : "Chceš si biatlon vyzkoušet? [Ozvi se](kontakty/)."
+  bio    : "Chceš si biatlon vyzkoušet? [Ozvi se](/kontakt/)."
   links:
     - label: "biatlon.chotebor@centrum.cz"
       icon: "fas fa-fw fa-envelope-square"
