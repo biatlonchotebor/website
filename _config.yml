@@ -5,3 +5,5 @@ collections:
   gallery:
     output: true
     permalink: /fotky/:path/
+    
+minimal_mistakes_skin: "air"
