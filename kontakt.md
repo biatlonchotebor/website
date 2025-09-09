@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Biatlon Chotebor"
+title: "Biatlon Chotebor: Kontakty"
 permalink: /kontakt/
 ---
 
