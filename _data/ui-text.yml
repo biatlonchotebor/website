@@ -30,7 +30,7 @@ cs: &DEFAULT_CS
   powered_by                 : "Používáme"
   website_label              : "Web"
   email_label                : "E-mail"
-  recent_posts               : "Nejnovější příspěvky"
+  recent_posts               : "Co se u nás děje"
   undefined_wpm              : "V souboru _config.yml chybí parametr words_per_minute"
   comment_form_info          : "Vaše e-mailová adresa nebude zveřejněna. Povinná pole jsou označena"
   comment_form_comment_label : "Komentář"
