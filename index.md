@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Klub Biatlonu Chotěboř"
+title: "Klub Biatlonu v Chotěboři hledá talenty"
 author_profile: true
 ---
 
