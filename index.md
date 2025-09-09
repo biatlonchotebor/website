@@ -1,4 +1,7 @@
-## Biatlon Chotebor
+---
+layout: single
+title: "Biatlon Chotebor"
+---
 
 This is a main welcome page
 
