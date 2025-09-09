@@ -1,5 +1,5 @@
 remote_theme: mmistakes/minimal-mistakes
-title: Biatlon Chotebor
+title: Klub Biatlonu Chotěboř
 minimal_mistakes_skin: "air"
 plugins:
   - jekyll-include-cache
@@ -26,31 +26,37 @@ defaults:
       author_profile: true
 
 author:
-  name   : "Biatlon Chotebor"
-  avatar : "/assets/images/gallery/tym/jablonec2025.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : ""
+  avatar : "/assets/images/biatlon-logo.png"
+  bio    : "Chceš si biatlon vyzkoušet? [Ozvi se](kontakty/)."
   links:
     - label: "biatlon.chotebor@centrum.cz"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:biatlon.chotebor@centrum.cz"
-    - label: "Fotky na Rajceti"
+    - label: "Fotky na Rajčeti"
       icon: "fas fa-fw fa-link"
       url: "https://biatlonchotebor.rajce.idnes.cz/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Tymuj.cz"
+      icon: "fas fa-fw fa-link"
+      url: "https://app.tymuj.cz/teams/19234"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/"
 
 footer:
   links:
     - label: "Biatlon.cz"
       icon: "fas fa-fw fa-link"
       url: "https://www.biatlon.cz"
-    - label: "Evidence a zavody"
+    - label: "Rozpis závodů"
       icon: "fas fa-fw fa-link"
-      url: "https://evidence.biatlon.cz"
-    - label: "Online Biatlon"
+      url: "https://evidence.biatlon.cz/#/udalosti"
+    - label: "Online výsledky"
       icon: "fas fa-fw fa-link"
       url: "http://online.biatlon.cz"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Plán tréninků"
+      icon: "fas fa-fw fa-link"
+      url: "https://docs.google.com/document/d/1bCtcN3SRhM2kunS8DVi4wrvGvTJ9cIkXPdTv8_0Nb6o/edit?usp=sharing"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/"
