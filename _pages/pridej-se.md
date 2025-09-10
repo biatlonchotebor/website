@@ -34,4 +34,4 @@ Roční příspěvek se v současné době pohybuje mezi 1 000 a 2 000 Kč.
 
 Máte zájem nebo se chcete na něco zeptat? Ozvěte se, více v [kontaktech](/kontakt/)
 
-![Tym v akci](/assets/images/posts/strelnice-mapa.jpg)
+![Kde je strelnice](/assets/images/strelnice-mapa.jpg)
