@@ -1,6 +1,8 @@
 main:
   - title: "O čem je biatlon"
     url: /o-biatlonu/
+  - title: "Přidej se k nám"
+    url: /pridej-se/
   - title: "Kontakty"
     url: /kontakt/
 
