@@ -14,5 +14,7 @@ Biatlon je sport, který dokonale prověřuje fyzickou zdatnost. Rychlý a techn
 
 Právě tato kombinace činí biatlon jedinečným. Spojuje v sobě sílu, rychlost, vytrvalost a motoriku s psychickou zdatností, klidem a zodpovědností. Biatlonisté musí být nejen výbornými sportovci, ale i strategicky uvažujícími závodníky, kteří dokáží spojit dvě zdánlivě odlišné disciplíny do harmonického celku. Díky tomu je biatlon nejen atraktivním sportem pro diváky, ale i jednou z nejkomplexnějších výzev ve světě vrcholového sportu.
 
-Více [zde](https://www.biatlon.cz/o-biatlonu/co-je-to-biatlon/).
+Zaujalo? Přijď si to [vyzkoušet na vlastní kůži](/pridej-se/).
+
+Více o biatlonu [na stránkách Český biatlon](https://www.biatlon.cz/o-biatlonu/co-je-to-biatlon/).
 

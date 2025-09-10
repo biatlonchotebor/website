@@ -8,5 +8,5 @@ Předseda klubu: Radek Fialka
 
 Trenéři: Radek Fialka, Jiřina Obrová, Pavel Řádek, Honza Horák
 
-E-mail: [mailto:biatlon.chotebor@centrum.cz](mailto:biatlon.chotebor@centrum.cz)
+E-mail: [biatlon.chotebor@centrum.cz](mailto:biatlon.chotebor@centrum.cz)
 
