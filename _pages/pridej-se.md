@@ -14,6 +14,8 @@ Tréninky jsou otevřené zejména dětem od 8 let, ale zapojit se může kdokol
 
 Trénujeme většinou v **úterý a neděli odpoledne** zejména na chotěbořské střelnici, podle potřeby také na dalších místech – běžecké tréninky v přírodě nebo jízda na kolečkových a běžeckých lyžích.
 
+![Zavody](/assets/images/trenink-strelnice.jpg)
+
 ## Jak trénink probíhá
 
 Nejde jen o střelbu! Velkou část tvoří běh, případně trénink na kolečkových lyžích. Střelba probíhá vždy pod dohledem zkušených trenérů a v bezpečném prostředí. Děti se tak učí nejen sportovním dovednostem, ale i koncentraci a klidnému zvládání zátěže.
@@ -25,6 +27,12 @@ Nemusíte se bát, že byste hned museli pořizovat drahé vybavení. Vzduchovky
 ## Přijďte si to vyzkoušet!
 
 Nejste si jistí, jestli je biatlon pro vás? Není nic jednoduššího – po předchozí domluvě si můžete přijít vyzkoušet nezávazně většinu tréninků.
+
+## Závody
+
+Co následuje po důkladné přípravě během tréninků? Samozřejmě závody. Každý rok se účastníme závodů po celé republice, jak na oblastních závodech, tak na celostátních pohárech. Vrcholem sezóny je potom mistrovství ČR, na které není snadné vybojovat postup, ale každý rok i na těchto závodech máme několik reprezentantů našeho klubu. Můžeš být mezi nimi!
+
+![Zavody](/assets/images/zavody-start.jpg)
 
 ## Členské příspěvky
 
