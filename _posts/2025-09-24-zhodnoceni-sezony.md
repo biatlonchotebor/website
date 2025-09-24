@@ -27,6 +27,7 @@ Tato sezóna byla tedy nejen o výsledcích, ale hlavně o získávání zkušen
 ## Celkové výsledky
 
 ### Regionální závod Staré Město pod Landštejnem (s překážkami)
+
 | Jméno           | umístění | kategorie  | střelba | poznámka                 |
 | --------------- | -------- | ---------- | ------- | ------------------------ |
 | Blažková Nela   | 6.       | zakyne W11 | 4       | první závod              |
@@ -38,6 +39,7 @@ Tato sezóna byla tedy nejen o výsledcích, ale hlavně o získávání zkušen
 | Obrová Jiřina   | 1.       | W41        | 2-1     |                          |
 
 ### Regionální závod Mladá Boleslav Kosmonosy
+
 | Jméno            | umístění | kategorie | střelba |
 | ---------------- | -------- | --------- | ------- |
 | Blažková Nela    | 2.       | W11       | 2       |
@@ -50,6 +52,7 @@ Tato sezóna byla tedy nejen o výsledcích, ale hlavně o získávání zkušen
 | Obrová Jiřina    | 2.       | W41       | 0-0     |
 
 ### Regionální závod Plzeň Vytrvalostní
+
 | Jméno           | umístění | kategorie | střelba |
 | --------------- | -------- | --------- | ------- |
 | Blažková Nela   | 6.       | W11       | 0       |
@@ -61,6 +64,7 @@ Tato sezóna byla tedy nejen o výsledcích, ale hlavně o získávání zkušen
 | Obrová Jiřina   | 1.       | W41       | 0-2-1-0 |
 
 ### Regionální závod Plzeň Sprint
+
 | Jméno            | umístění | kategorie | střelba |
 | ---------------- | -------- | --------- | ------- |
 | Blažková Nela    | 9.       | W11       | 2       |
@@ -73,6 +77,7 @@ Tato sezóna byla tedy nejen o výsledcích, ale hlavně o získávání zkušen
 | Sýkorová Klára   | 3.       | Ženy      | 2-1     |
 
 ### Regionální závod Nové Město na Moravě Sprint
+
 | Jméno         | umístění | kategorie | střelba |
 | ------------- | -------- | --------- | ------- |
 | Blažková Nela | 2.       | W11       | 2       |
@@ -80,6 +85,7 @@ Tato sezóna byla tedy nejen o výsledcích, ale hlavně o získávání zkušen
 | Šindelář Vít  | 2.       | M15       | 1-2     |
 
 ### 1. ČP žactva Bystřice pod Hostýnem Sprint
+
 | Jméno         | umístění | kategorie | střelba |
 | ------------- | -------- | --------- | ------- |
 | Blažková Nela | 8.       | W11       | 1       |
@@ -87,6 +93,7 @@ Tato sezóna byla tedy nejen o výsledcích, ale hlavně o získávání zkušen
 | Šindelář Vít  | 31.      | M15       | 4-3     |
 
 ### 2. ČP a MČR žactva Sprint
+
 | Jméno         | umístění | kategorie | střelba |
 | ------------- | -------- | --------- | ------- |
 | Blažková Nela | 9.       | W11       | 2       |
@@ -94,6 +101,7 @@ Tato sezóna byla tedy nejen o výsledcích, ale hlavně o získávání zkušen
 | Šindelář Vít  | 17.      | M15       | 1-0     |
 
 ### 2. ČP a MČR žactva Vytrvalostní závod
+
 | Jméno         | umístění | kategorie | střelba |
 | ------------- | -------- | --------- | ------- |
 | Blažková Nela | 10.      | W11       | 1       |
@@ -101,7 +109,9 @@ Tato sezóna byla tedy nejen o výsledcích, ale hlavně o získávání zkušen
 | Šindelář Vít  | 35.      | M15       | 3-0     |
 
 ### 2. ČP a MČR žactva Štafetový závod
-17. místo
+
+Umístění štafety: 17.
+
 | Jméno         | střelba |
 | ------------- | ------- |
 | Šindelář Vít  | 1+3     |
@@ -109,12 +119,14 @@ Tato sezóna byla tedy nejen o výsledcích, ale hlavně o získávání zkušen
 | Enge Albert   | 0+3     |
 
 ### 1. ČP žactva Bystřice pod Hostýnem Sprint se štafetovou střelbou
+
 | Jméno        | umístění | kategorie | střelba |
 | ------------ | -------- | --------- | ------- |
 | Matějka Jan  | 19.      | M14       | 3-2     |
 | Šindelář Vít | 19.      | M15       | 1-1     |
 
 ### 1. ČP D+D Jilemnice Sprint
+
 | Jméno            | umístění | kategorie | střelba |
 | ---------------- | -------- | --------- | ------- |
 | Jakl Jan         | 21.      | M16       | 4-1     |
@@ -125,6 +137,7 @@ Tato sezóna byla tedy nejen o výsledcích, ale hlavně o získávání zkušen
 | Obrová Jiřina    | 7.       | W41       | 1-2     |
 
 ### 1. ČP D+D Jilemnice Sprint se štafetovou střelbou
+
 | Jméno            | umístění | kategorie | střelba |
 | ---------------- | -------- | --------- | ------- |
 | Jakl Jan         | 14.      | M16       | 0+3 3+3 |
@@ -134,6 +147,7 @@ Tato sezóna byla tedy nejen o výsledcích, ale hlavně o získávání zkušen
 | Obrová Jiřina    | 6.       | W41       | 0+0 2+3 |
 
 ### 2. ČP D+D Bystřice pod Hostýnem Sprint
+
 | Jméno         | umístění | kategorie | střelba |
 | ------------- | -------- | --------- | ------- |
 | Jakl Jan      | 18.      | M16       | 1-3     |
@@ -141,6 +155,7 @@ Tato sezóna byla tedy nejen o výsledcích, ale hlavně o získávání zkušen
 | Obrová Jiřina | 3.       | W41       | 0-3     |
 
 ### 2. ČP D+D Bystřice pod Hostýnem Stíhací závod
+
 | Jméno         | umístění | kategorie | střelba |
 | ------------- | -------- | --------- | ------- |
 | Jakl Jan      | 15.      | M16       | 2-2-3-2 |
@@ -148,12 +163,14 @@ Tato sezóna byla tedy nejen o výsledcích, ale hlavně o získávání zkušen
 | Obrová Jiřina | 4.       | W41       | 2-1-2-0 |
 
 ### 3. ČP D+D Letohrad Hromadný start
+
 | Jméno         | umístění | kategorie | střelba |
 | ------------- | -------- | --------- | ------- |
 | Horák Jan     | 5.       | M36       | 2-1-0-0 |
 | Obrová Jiřina | 8.       | W41       | 3-2-2-1 |
 
 ### 3. ČP D+D Letohrad Sprint
+
 | Jméno            | umístění | kategorie | střelba |
 | ---------------- | -------- | --------- | ------- |
 | Sýkorová Barbora | 8.       | Juniorky  | 4-3     |
@@ -162,6 +179,7 @@ Tato sezóna byla tedy nejen o výsledcích, ale hlavně o získávání zkušen
 | Obrová Jiřina    | 5.       | W41       | 1-2     |
 
 ### MČR D+D Jablonec nad Nisou Sprint
+
 | Jméno           | umístění | kategorie | střelba |
 | --------------- | -------- | --------- | ------- |
 | Nápravník Jakub | 20.      | Muži      | 3-2     |
@@ -169,6 +187,7 @@ Tato sezóna byla tedy nejen o výsledcích, ale hlavně o získávání zkušen
 | Obrová Jiřina   | 7.       | W41       | 1-2     |
 
 ### MČR D+D Jablonec nad Nisou Vytrvalostní
+
 | Jméno           | umístění | kategorie | střelba |
 | --------------- | -------- | --------- | ------- |
 | Nápravník Jakub | 20.      | Muži      | 4-2-3-4 |
@@ -176,6 +195,9 @@ Tato sezóna byla tedy nejen o výsledcích, ale hlavně o získávání zkušen
 | Obrová Jiřina   | 10.      | W41       | 0-1-2-4 |
 
 ### MČR D+D Jablonec nad Nisou Štafetový závod dvojic
+
+Umístění štafety: 11.
+
 | Jméno           | střelba |
 | --------------- | ------- |
 | Horák Jan       | 0+1     |
@@ -185,7 +207,6 @@ Tato sezóna byla tedy nejen o výsledcích, ale hlavně o získávání zkušen
 
 Komplet výsledky [tu](https://evidence.biatlon.cz/#/udalosti).
 
-![Tym v akci sezona-2025-0.jpg](/assets/images/posts/sezona-2025-0.jpg)
 ![Tym v akci sezona-2025-10.jpg](/assets/images/posts/sezona-2025-10.jpg)
 ![Tym v akci sezona-2025-11.jpg](/assets/images/posts/sezona-2025-11.jpg)
 ![Tym v akci sezona-2025-12.jpg](/assets/images/posts/sezona-2025-12.jpg)
