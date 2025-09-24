@@ -208,26 +208,47 @@ Umístění štafety: 11.
 Komplet výsledky [tu](https://evidence.biatlon.cz/#/udalosti).
 
 ![Tym v akci sezona-2025-10.jpg](/assets/images/posts/sezona-2025-10.jpg)
+
 ![Tym v akci sezona-2025-11.jpg](/assets/images/posts/sezona-2025-11.jpg)
+
 ![Tym v akci sezona-2025-12.jpg](/assets/images/posts/sezona-2025-12.jpg)
+
 ![Tym v akci sezona-2025-13.jpg](/assets/images/posts/sezona-2025-13.jpg)
+
 ![Tym v akci sezona-2025-14.jpg](/assets/images/posts/sezona-2025-14.jpg)
+
 ![Tym v akci sezona-2025-15.jpg](/assets/images/posts/sezona-2025-15.jpg)
+
 ![Tym v akci sezona-2025-16.jpg](/assets/images/posts/sezona-2025-16.jpg)
+
 ![Tym v akci sezona-2025-17.jpg](/assets/images/posts/sezona-2025-17.jpg)
+
 ![Tym v akci sezona-2025-18.jpg](/assets/images/posts/sezona-2025-18.jpg)
+
 ![Tym v akci sezona-2025-19.jpg](/assets/images/posts/sezona-2025-19.jpg)
+
 ![Tym v akci sezona-2025-1.jpg](/assets/images/posts/sezona-2025-1.jpg)
+
 ![Tym v akci sezona-2025-20.jpg](/assets/images/posts/sezona-2025-20.jpg)
+
 ![Tym v akci sezona-2025-21.jpg](/assets/images/posts/sezona-2025-21.jpg)
+
 ![Tym v akci sezona-2025-22.jpg](/assets/images/posts/sezona-2025-22.jpg)
+
 ![Tym v akci sezona-2025-2.jpg](/assets/images/posts/sezona-2025-2.jpg)
+
 ![Tym v akci sezona-2025-3.jpg](/assets/images/posts/sezona-2025-3.jpg)
+
 ![Tym v akci sezona-2025-4.jpg](/assets/images/posts/sezona-2025-4.jpg)
+
 ![Tym v akci sezona-2025-5.jpg](/assets/images/posts/sezona-2025-5.jpg)
+
 ![Tym v akci sezona-2025-6.jpg](/assets/images/posts/sezona-2025-6.jpg)
+
 ![Tym v akci sezona-2025-7.jpg](/assets/images/posts/sezona-2025-7.jpg)
+
 ![Tym v akci sezona-2025-8.jpg](/assets/images/posts/sezona-2025-8.jpg)
+
 ![Tym v akci sezona-2025-9.jpg](/assets/images/posts/sezona-2025-9.jpg)
 
 
