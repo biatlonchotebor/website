@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Chotěbořští biatlonisté se připravují na sezonu ve velkém stylu"
-date: 2026-04-10
+date: 2026-04-08
 tags: [z-klubu, 2026]
 ---
 
