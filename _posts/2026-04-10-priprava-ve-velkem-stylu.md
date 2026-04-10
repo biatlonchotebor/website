@@ -19,6 +19,41 @@ Velké poděkování patří trenérům **Pavlovi a Radkovi**, kteří byli po c
 
 Obě akce nám znovu potvrdily, že biatlon není jen o sportu, ale také o zážitcích, partě a radosti z pohybu. Pokud by se k nám chtěly přidat další děti, které láká běh, střelba, zábava a nové kamarádství, mrkněte [sem](/pridej-se/), **rádi mezi sebou přivítáme nové tváře**.
 
+![Trenink NMnM](/assets/images/posts/trenink-nmnm-2026-10.jpg)
+
+![Trenink NMnM](/assets/images/posts/trenink-nmnm-2026-11.jpg)
+
+![Trenink NMnM](/assets/images/posts/trenink-nmnm-2026-12.jpg)
+
+![Trenink NMnM](/assets/images/posts/trenink-nmnm-2026-13.jpg)
+
+![Trenink NMnM](/assets/images/posts/trenink-nmnm-2026-14.jpg)
+
+![Trenink NMnM](/assets/images/posts/trenink-nmnm-2026-15.jpg)
+
+![Trenink NMnM](/assets/images/posts/trenink-nmnm-2026-16.jpg)
+
+![Trenink NMnM](/assets/images/posts/trenink-nmnm-2026-17.jpg)
+
+![Trenink NMnM](/assets/images/posts/trenink-nmnm-2026-18.jpg)
+
+![Trenink NMnM](/assets/images/posts/trenink-nmnm-2026-1.jpg)
+
+![Trenink NMnM](/assets/images/posts/trenink-nmnm-2026-2.jpg)
+
+![Trenink NMnM](/assets/images/posts/trenink-nmnm-2026-3.jpg)
+
+![Trenink NMnM](/assets/images/posts/trenink-nmnm-2026-4.jpg)
+
+![Trenink NMnM](/assets/images/posts/trenink-nmnm-2026-5.jpg)
+
+![Trenink NMnM](/assets/images/posts/trenink-nmnm-2026-6.jpg)
+
+![Trenink NMnM](/assets/images/posts/trenink-nmnm-2026-7.jpg)
+
+![Trenink NMnM](/assets/images/posts/trenink-nmnm-2026-8.jpg)
+
+![Trenink NMnM](/assets/images/posts/trenink-nmnm-2026-9.jpg)
 
 ![Soustredeni Jachymov](/assets/images/posts/soustredeni-jachymov-2026-1.jpg)
 
