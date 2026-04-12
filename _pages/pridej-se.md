@@ -36,7 +36,7 @@ Co následuje po důkladné přípravě během tréninků? Samozřejmě závody.
 
 ## Členské příspěvky
 
-Roční příspěvek se v současné době pohybuje mezi 1 000 a 2 000 Kč.
+Roční příspěvek je v současné době 1&nbsp;000&nbsp;Kč. Dorost a dospělí k tomu platí příspěvek na náboje 1&nbsp;000&nbsp;Kč.
 
 ## Kontakt
 
