@@ -12,7 +12,7 @@ Tréninky jsou otevřené zejména dětem od 8 let, ale zapojit se může kdokol
 
 ## Tréninky
 
-Trénujeme většinou v **úterý a neděli odpoledne** zejména na chotěbořské střelnici, podle potřeby také na dalších místech – běžecké tréninky v přírodě nebo jízda na kolečkových a běžeckých lyžích.
+Trénujeme většinou v **úterý a neděli odpoledne** zejména na chotěbořské střelnici, podle potřeby také na dalších místech – běžecké tréninky v přírodě, kolečkové lyže na nové cyklostezce a běžecké lyže několikrát vytáhneme do Vysočina Arény v Novém Městě na Moravě.
 
 ![Zavody](/assets/images/trenink-strelnice.jpg)
 
