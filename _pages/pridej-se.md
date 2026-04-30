@@ -22,7 +22,7 @@ Nejde jen o střelbu! Velkou část tvoří běh, případně trénink techniky 
 
 ## Vybavení a bezpečnost
 
-Nemusíte se bát, že byste hned museli pořizovat drahé vybavení. Vzduchovky, malorážky i kolečkové nebo běžecké lyže klub zapůjčí. Na bezpečnost při střelbě se dbá velmi přísně – děti se od začátku učí odpovědnému zacházení, což je skvělá průprava nejen pro sport.
+Nemusíte se bát, že byste hned museli pořizovat drahé vybavení. Vzduchovky, malorážky i kolečkové nebo běžecké lyže klub zapůjčí. Na bezpečnost při střelbě se dbá velmi přísně – děti se od začátku učí odpovědnému zacházení, což je skvělá průprava nejen pro sport. Pro inspiraci mrkni na naše [Desatero bezpečné manipulace](/desatero-bezpecne-manipulace/).
 
 ## Přijďte si to vyzkoušet!
 
