@@ -1,10 +1,8 @@
 ---
 layout: single
-title: "Desatero bezpečné manipulace"
+title: "Desatero bezpečné manipulace se zbraní na střelnici i mimo"
 permalink: /desatero-bezpecne-manipulace/
 ---
-
-## Desatero bezpečné manipulace se zbraní na střelnici
 
 1. **Zbraň je vždy považována za nabitou**  
    I když si seš jistý opakem, chovej se k ní vždy maximálně opatrně, jako by mohla kdykoliv vystřelit.
