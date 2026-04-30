@@ -16,7 +16,7 @@ permalink: /desatero-bezpecne-manipulace/
 4. **Zbraně nikdy nenechávej bez dozoru**  
    Vždy musí být pod kontrolou střelce nebo trenéra.
 
-5. **Manipulace jen na povel nebo se souhlasem trenéra**  
+5. **Manipulace jen na povel nebo se souhlasem trenéra nebo rozhodčího**  
    Bez pokynu se zbraní nemanipuluj (nabíjení, vybíjení, kontrola).
 
 6. **Povel „Dostřílet“ = dokončit aktuální střelbu**  
@@ -28,7 +28,7 @@ permalink: /desatero-bezpecne-manipulace/
 8. **Po střelbě vždy vybij, otevři závěr a zkontroluj zbraň**  
    Následně vlož **bezpečnostní prvek („vlaječku“) do hlavně**.
 
-9. **Porucha zbraně = nemířit jinam a volat trenéra**  
+9. **Porucha zbraně = nemířit jinam a volat trenéra nebo rozhodčího**  
    Ponech zbraň v bezpečném směru, nesnaž se závadu řešit sám (pokud nemáš pokyn).
 
 10. **Disciplína a soustředění na střelnici**  
