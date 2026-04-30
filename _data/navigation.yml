@@ -3,6 +3,8 @@ main:
     url: /o-biatlonu/
   - title: "Přidej se k nám"
     url: /pridej-se/
+  - title: "Desatero"
+    url: /desatero-bezpecne-manipulace/
   - title: "Kontakty"
     url: /kontakt/
 
