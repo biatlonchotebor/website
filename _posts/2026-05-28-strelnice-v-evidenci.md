@@ -19,6 +19,8 @@ Po přihlášení tě systém provede kontrolou a nastavením údajů -- vyplň 
 
 Teď to důležité -- v sekci [Správa člena](https://evidence.biatlon.cz/#/clen) je potřeba nahrát identifikační doklad -- občanku nebo pas, fotku nebo naskenovaný. Systém z nahraného obrázku zjistí číslo a platnost; pokud strojové čtení selže, je možné tyto údaje zadat ručně.
 
+Jakmile je doklad nahrán, jako další je potřeba zaškrtnout políčko **Jsem sportovec s malorážkou**.
+
 Stejně tak v sekci [Správa člena](https://evidence.biatlon.cz/#/clen), [v záložce **Střelnice**](https://evidence.biatlon.cz/#/clen/strelnice) je potřeba potvrdit, že jsi se seznámil(a) s **provozním řádem střelnice**, na které budeš střílet.
 
 Pokud se provozní řád změní nebo přibude nový, systém tě vyzve k jeho novému odsouhlasení. Bez potvrzeného provozního řádu nebude možné se účastnit akcí ani závodů na dané střelnici. Toto se bude dít zřídka, takže zpravidla se každý řád odsouhlasí jednou a bude pokoj.
