@@ -11,6 +11,8 @@ Do celostátních závodů se během sezony zapojili závodníci od žactva až 
 
 # Žactvo
 
+Ještě před konáním celostátních závodů se kvalifikačních závodů poprvé zúčastnila i naše nejmladší svěřenkyně v kategorii přípravka Šárka Tomášková a rovnou si v Kosmonosech doběhla pro bronzovou medaili. Lepší úvod své biatlonové kariéry si nemohla přát.
+
 ## 1. ČP – Staré Město pod Landštejnem
 
 První závod Českého poháru žactva byl pro naše mladé závodnice především příležitostí poznat atmosféru velkého celostátního závodu. Během dvou dnů si vyzkoušely dvě odlišné disciplíny a získaly cenné zkušenosti na střelnici i na trati.
