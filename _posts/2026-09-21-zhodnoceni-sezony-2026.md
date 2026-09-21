@@ -248,59 +248,59 @@ Děkujeme všem závodníkům za nasazení během celé sezony, trenérům za č
 
 Teď už je čas na chvíli zpomalit, odpočinout si a načerpat nové síly. **Všem přejeme příjemný odpočinek před začátkem zimní přípravy, zimní sezona se blíží!**
 
-\![Tym v akci sezona-2026--1.jpg](/assets/images/posts/sezona-2026--1.jpg)
+![Tym v akci sezona-2026--1.jpg](/assets/images/posts/sezona-2026--1.jpg)
 
-\![Tym v akci sezona-2026--2.jpg](/assets/images/posts/sezona-2026--2.jpg)
+![Tym v akci sezona-2026--2.jpg](/assets/images/posts/sezona-2026--2.jpg)
 
-\![Tym v akci sezona-2026--3.jpg](/assets/images/posts/sezona-2026--3.jpg)
+![Tym v akci sezona-2026--3.jpg](/assets/images/posts/sezona-2026--3.jpg)
 
-\![Tym v akci sezona-2026--4.jpg](/assets/images/posts/sezona-2026--4.jpg)
+![Tym v akci sezona-2026--4.jpg](/assets/images/posts/sezona-2026--4.jpg)
 
-\![Tym v akci sezona-2026--5.jpg](/assets/images/posts/sezona-2026--5.jpg)
+![Tym v akci sezona-2026--5.jpg](/assets/images/posts/sezona-2026--5.jpg)
 
-\![Tym v akci sezona-2026--6.jpg](/assets/images/posts/sezona-2026--6.jpg)
+![Tym v akci sezona-2026--6.jpg](/assets/images/posts/sezona-2026--6.jpg)
 
-\![Tym v akci sezona-2026--7.jpg](/assets/images/posts/sezona-2026--7.jpg)
+![Tym v akci sezona-2026--7.jpg](/assets/images/posts/sezona-2026--7.jpg)
 
-\![Tym v akci sezona-2026--8.jpg](/assets/images/posts/sezona-2026--8.jpg)
+![Tym v akci sezona-2026--8.jpg](/assets/images/posts/sezona-2026--8.jpg)
 
-\![Tym v akci sezona-2026--9.jpg](/assets/images/posts/sezona-2026--9.jpg)
+![Tym v akci sezona-2026--9.jpg](/assets/images/posts/sezona-2026--9.jpg)
 
-\![Tym v akci sezona-2026--10.jpg](/assets/images/posts/sezona-2026--10.jpg)
+![Tym v akci sezona-2026--10.jpg](/assets/images/posts/sezona-2026--10.jpg)
 
-\![Tym v akci sezona-2026--11.jpg](/assets/images/posts/sezona-2026--11.jpg)
+![Tym v akci sezona-2026--11.jpg](/assets/images/posts/sezona-2026--11.jpg)
 
-\![Tym v akci sezona-2026--12.jpg](/assets/images/posts/sezona-2026--12.jpg)
+![Tym v akci sezona-2026--12.jpg](/assets/images/posts/sezona-2026--12.jpg)
 
-\![Tym v akci sezona-2026--13.jpg](/assets/images/posts/sezona-2026--13.jpg)
+![Tym v akci sezona-2026--13.jpg](/assets/images/posts/sezona-2026--13.jpg)
 
-\![Tym v akci sezona-2026--14.jpg](/assets/images/posts/sezona-2026--14.jpg)
+![Tym v akci sezona-2026--14.jpg](/assets/images/posts/sezona-2026--14.jpg)
 
-\![Tym v akci sezona-2026--15.jpg](/assets/images/posts/sezona-2026--15.jpg)
+![Tym v akci sezona-2026--15.jpg](/assets/images/posts/sezona-2026--15.jpg)
 
-\![Tym v akci sezona-2026--16.jpg](/assets/images/posts/sezona-2026--16.jpg)
+![Tym v akci sezona-2026--16.jpg](/assets/images/posts/sezona-2026--16.jpg)
 
-\![Tym v akci sezona-2026--17.jpg](/assets/images/posts/sezona-2026--17.jpg)
+![Tym v akci sezona-2026--17.jpg](/assets/images/posts/sezona-2026--17.jpg)
 
-\![Tym v akci sezona-2026--18.jpg](/assets/images/posts/sezona-2026--18.jpg)
+![Tym v akci sezona-2026--18.jpg](/assets/images/posts/sezona-2026--18.jpg)
 
-\![Tym v akci sezona-2026--19.jpg](/assets/images/posts/sezona-2026--19.jpg)
+![Tym v akci sezona-2026--19.jpg](/assets/images/posts/sezona-2026--19.jpg)
 
-\![Tym v akci sezona-2026--20.jpg](/assets/images/posts/sezona-2026--20.jpg)
+![Tym v akci sezona-2026--20.jpg](/assets/images/posts/sezona-2026--20.jpg)
 
-\![Tym v akci sezona-2026--21.jpg](/assets/images/posts/sezona-2026--21.jpg)
+![Tym v akci sezona-2026--21.jpg](/assets/images/posts/sezona-2026--21.jpg)
 
-\![Tym v akci sezona-2026--22.jpg](/assets/images/posts/sezona-2026--22.jpg)
+![Tym v akci sezona-2026--22.jpg](/assets/images/posts/sezona-2026--22.jpg)
 
-\![Tym v akci sezona-2026--23.jpg](/assets/images/posts/sezona-2026--23.jpg)
+![Tym v akci sezona-2026--23.jpg](/assets/images/posts/sezona-2026--23.jpg)
 
-\![Tym v akci sezona-2026--24.jpg](/assets/images/posts/sezona-2026--24.jpg)
+![Tym v akci sezona-2026--24.jpg](/assets/images/posts/sezona-2026--24.jpg)
 
-\![Tym v akci sezona-2026--25.jpg](/assets/images/posts/sezona-2026--25.jpg)
+![Tym v akci sezona-2026--25.jpg](/assets/images/posts/sezona-2026--25.jpg)
 
-\![Tym v akci sezona-2026--26.jpg](/assets/images/posts/sezona-2026--26.jpg)
+![Tym v akci sezona-2026--26.jpg](/assets/images/posts/sezona-2026--26.jpg)
 
-\![Tym v akci sezona-2026--27.jpg](/assets/images/posts/sezona-2026--27.jpg)
+![Tym v akci sezona-2026--27.jpg](/assets/images/posts/sezona-2026--27.jpg)
 
-\![Tym v akci sezona-2026--28.jpg](/assets/images/posts/sezona-2026--28.jpg)
+![Tym v akci sezona-2026--28.jpg](/assets/images/posts/sezona-2026--28.jpg)
 
