@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Zhodnocení letní sezóny 2026"
-date: 2026-09-22
+date: 2026-09-21
 tags: [z-klubu, 2026]
 ---
 
